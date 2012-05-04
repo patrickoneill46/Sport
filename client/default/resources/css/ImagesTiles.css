@@ -13,8 +13,10 @@
     -webkit-box-shadow: 1px 1px 3px rgba(2,2,2,0.8);
 }
 
+
 .cs-tile-selected {
     -webkit-box-shadow:  1px 1px 4px rgba(25,133,208,0.9);
+    opacity: 0.5;
 }
 
 .cs-tile-pressed {
