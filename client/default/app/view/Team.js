@@ -20,7 +20,7 @@ Ext.define('Sport.view.Team', {
 	        	xtype: 'list',
 	        	id: 'teamnav',
 	        	docked: 'left',
-	        	width: 250,
+	        	width: 100,
 	        	store: Ext.create('Ext.data.Store', {
 	        		fields: ['item'],
 	        		data: [{
